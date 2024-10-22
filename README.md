@@ -1,3 +1,6 @@
+# 💫 About Me:
+Hi I'm Klark, a Frontend Developer / Web Developer, I'm currently enrolled<br>at SAIT in their Software Development Program
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Klrkescano) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/klark-chester-escano-125854286) 
